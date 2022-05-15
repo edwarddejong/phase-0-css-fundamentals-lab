@@ -4,6 +4,29 @@ body {
   margin: 0;
 }
 
-h1 {
-  color: red;
+header {
+  text-align: center;
+}
+
+#featured-property figure {
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+nav > a {
+padding-left: 10px;
+padding-right: 10px;
+background-color: darkgrey;
+}
+
+#details div {
+  float: left;
+  text-align: center;
+  width: 25%;
+  background-color: blueviolet;
 }
